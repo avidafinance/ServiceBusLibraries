@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RuntimeFrameworkVersion>2.1.2</RuntimeFrameworkVersion>
+    <PackageProjectUrl>https://github.com/avidafinance/ServiceBusLibraries</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/avidafinance/ServiceBusLibraries/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright 2018</Copyright>
+    <PackageIconUrl>https://www.avidafinance.com/favicon-152x152.png</PackageIconUrl>
+    <PackageTags>service bus client</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
