@@ -1,0 +1,8 @@
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\bin\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.deps.json
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\bin\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.dll
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\bin\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.pdb
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\obj\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.csproj.CoreCompileInputs.cache
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\obj\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.AssemblyInfoInputs.cache
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\obj\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.AssemblyInfo.cs
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\obj\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.dll
+c:\users\ddhimole\source\repos\Avida.ServiceBus.Libraries\Avida.ServiceBus.Libraries\obj\Release\netcoreapp2.1\Avida.ServiceBus.Libraries.pdb
