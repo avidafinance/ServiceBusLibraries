@@ -1,4 +1,5 @@
-﻿using Microsoft.Azure.ServiceBus;
+﻿using Avida.ServiceBus.Libraries.Interface;
+using Microsoft.Azure.ServiceBus;
 using Microsoft.Azure.ServiceBus.Core;
 using Microsoft.Azure.ServiceBus.Primitives;
 using System;
@@ -8,7 +9,7 @@ using System.Text.RegularExpressions;
 
 namespace Avida.ServiceBus.Libraries
 {
-    public class QueueClientFactory
+    public class QueueClientFactory : IQueueClientFactory
     {
         private readonly string _connectionString;
         private readonly TransportType _transportType;
